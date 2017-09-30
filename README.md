@@ -1,2 +1,3 @@
-# Exercise-repo
+# Exercise-rep
 This repo is for exercise.
+Hello , this is softuni exercise.
